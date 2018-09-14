@@ -1,16 +1,14 @@
-# Introduction to Pandas, August 2018 Edition
+# Introduction to Pandas, October 2018 Edition
 
 Pandas is a Python package for visualising, cleaning and analysing spreadsheet-type data inside the programming language Python. It should be noted that Pandas is a massive library, with a whole range of functions and functionality - it's impossible to cover all of the topics that you would find useful. However, this training will aim to introduce you to key concepts, and to give you the knowledge required to seek out the answers you need when you're trying to find something new.  
 
-This Pandas workshop will be running from **4 pm - 7:30 pm on Thursday 2nd of August**, at the CoLab training space, also known as __Room 329, Level 3, Eastern Resource Centre, Building 171__. 
+This Pandas workshop will be running from **4:30 pm - 7:30 pm on Thursday the 4th of October**, at the CoLab training space, also known as __Room 329, Level 3, Eastern Resource Centre, Building 171__. 
 
 There are currently a number of contruction works going on around the ERC however, and accessibility is limited. For an animated version of how to get into our space, follow our (sometimes) resident ResDog Snickers!
 
 *From the Swanston St Tram Stop*  
 ![Tramstop.gif](https://github.com/resbaz/Pandas_May2018/blob/master/Swanston%20tram%20to%20colab.gif)
 
-*From House of Cards Coffee Shop*  
-![Coffee.gif](https://github.com/resbaz/Pandas_May2018/blob/master/House%20of%20Cards%20to%20Colab.gif)
 
 
 This workshop is designed for those trying to explore and learn about the Python package Pandas for the first time. The content is suitable for a range of learners, though users will preferably already have some familiarity with Python. 
