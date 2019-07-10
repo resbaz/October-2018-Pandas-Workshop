@@ -2,18 +2,12 @@
 
 Pandas is a Python package for visualising, cleaning and analysing spreadsheet-type data inside the programming language Python. It should be noted that Pandas is a massive library, with a whole range of functions and functionality - it's impossible to cover all of the topics that you would find useful. However, this training will aim to introduce you to key concepts, and to give you the knowledge required to seek out the answers you need when you're trying to find something new.  
 
-This Pandas workshop will be running from **4:30 pm - 7:30 pm on Thursday the 4th of October**, at the CoLab training space, also known as __Room 329, Level 3, Eastern Resource Centre, Building 171__. 
-
-There are currently a number of contruction works going on around the ERC however, and accessibility is limited. For an animated version of how to get into our space, follow our (sometimes) resident ResDog Snickers!
-
-*From the Swanston St Tram Stop*  
-![Tramstop.gif](https://github.com/resbaz/Pandas_May2018/blob/master/Swanston%20tram%20to%20colab.gif)
-
+This Pandas workshop will be running from **4:00 pm - 8:00 pm on Thursday the 11th of July**, at the CoLab training space, also known as __Room 111, Level 1, 757 Swanston Street (Stop One Building), Parkville Vic__. 
 
 
 This workshop is designed for those trying to explore and learn about the Python package Pandas for the first time. The content is suitable for a range of learners, though users will preferably already have some familiarity with Python. 
 
-This workshop will be using Python 3.6 inside the Jupyter Notebook. You can find installation instructions inside the 
+This workshop will be using Python 3.7 inside the Jupyter Notebook. You can find installation instructions inside the 
 [Python_Installation.md](https://github.com/resbaz/Sept2017_PandasWorkshop/blob/master/Python_installation.md)
 instruction file. 
 
