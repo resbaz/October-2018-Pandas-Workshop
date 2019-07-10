@@ -1,4 +1,4 @@
-# Introduction to Pandas, October 2018 Edition
+# Introduction to Pandas, July 2019 Edition
 
 Pandas is a Python package for visualising, cleaning and analysing spreadsheet-type data inside the programming language Python. It should be noted that Pandas is a massive library, with a whole range of functions and functionality - it's impossible to cover all of the topics that you would find useful. However, this training will aim to introduce you to key concepts, and to give you the knowledge required to seek out the answers you need when you're trying to find something new.  
 
